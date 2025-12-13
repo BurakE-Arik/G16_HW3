@@ -1,2 +1,2 @@
 # G16_HW3
-Ödev
+Onur ödevi buraya commitle
